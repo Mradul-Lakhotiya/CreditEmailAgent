@@ -72,6 +72,10 @@ def _extract_json(raw: str) -> str:
 
 
 FALLBACK_MODELS = [
+    "models/gemini-3.1-flash-lite",
+    "models/gemma-4-26b-a4b-it",
+    "models/gemini-1.5-flash",
+    "models/gemini-1.5-pro",
     "models/gemini-flash-lite",
     "models/gemini-2.0-flash",
 ]

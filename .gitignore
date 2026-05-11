@@ -12,3 +12,4 @@ venv/
 data/audit.db
 *.db
 .DS_Store
+.presentation_outline.md
