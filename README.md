@@ -1,5 +1,11 @@
 # Finance Credit Follow-Up Email Agent
 
+## 📥 Task 2 Submission – AI Enablement Internship
+
+**Submission Links:**  
+• Presentation Deck: [https://docs.google.com/presentation/d/15p4JfOK7Vm7AuDODm_z-sXrFdm4KsxvVDTL7th_Fx8Y/edit?usp=sharing](https://docs.google.com/presentation/d/15p4JfOK7Vm7AuDODm_z-sXrFdm4KsxvVDTL7th_Fx8Y/edit?usp=sharing)  
+• Demo Video: [https://drive.google.com/file/d/1QXu-a70izX9EX4DS72UmbLMK7miTduV3/view?usp=sharing](https://drive.google.com/file/d/1QXu-a70izX9EX4DS72UmbLMK7miTduV3/view?usp=sharing)
+
 An AI-powered payment reminder engine that automates collections and intelligently escalates email tone based on overdue status.
 
 ## 📌 Project Overview
